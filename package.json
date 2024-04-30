@@ -1,0 +1,23 @@
+{
+  "name": "cli-todo",
+  "version": "1.0.0",
+  "description": "A command line todo app",
+  "main": "todo.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "keywords": [
+    "todo",
+    "cli"
+  ],
+  "author": "Tejas Anil Shrimali",
+  "license": "ISC",
+  "bin": {
+    "todo": "./bin/todo.mjs"
+  },
+  "dependencies": {
+    "chalk": "2.4",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.20"
+  }
+}
