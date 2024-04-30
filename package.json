@@ -1,5 +1,5 @@
 {
-  "name": "@tejadon/cli-todo",
+  "name": "@tejadon/command-line-todo-app",
   "version": "1.0.0",
   "description": "A command line todo app",
   "main": "todo.js",
@@ -18,5 +18,14 @@
   "dependencies": {
     "chalk": "2.4",
     "inquirer": "^9.2.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejaDon360/cli-todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TejaDon360/cli-todo/issues"
+  },
+  "homepage": "https://github.com/TejaDon360/cli-todo#readme"
 }
