@@ -1,5 +1,5 @@
 {
-  "name": "cli-todo",
+  "name": "@tejadon/cli-todo",
   "version": "1.0.0",
   "description": "A command line todo app",
   "main": "todo.js",
