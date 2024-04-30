@@ -1,5 +1,5 @@
 {
-  "name": "@tejadon/command-line-todo-app",
+  "name": "cli-todo-pkg",
   "version": "1.0.0",
   "description": "A command line todo app",
   "main": "todo.js",
@@ -13,7 +13,7 @@
   "author": "Tejas Anil Shrimali",
   "license": "ISC",
   "bin": {
-    "todo": "./bin/todo.mjs"
+    "todo": "bin/todo.mjs"
   },
   "dependencies": {
     "chalk": "2.4",
