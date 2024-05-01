@@ -4,10 +4,8 @@ This is simple command line interface todo tool made with **Javascript** along w
 This tool creates a tasks.txt file to store all your tasks.
 
 ### Installation
-***
 Install this package using ```npm i cli-todo-pkg```.
 
 
 ### Usage
-***
 Use ```todo``` to start the app in command line interface.
