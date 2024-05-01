@@ -78,7 +78,7 @@ function todoCycle() {
             console.log(chalk.greenBright("Task deleted successfully!"));
             todoCycle();
           });
-      } else if (ans.action == "Exit todo") {
+      } else if (ans.action == `${chalk.redBright("Exit todo")}`) {
         console.log("Complete all your tasks!");
       }
     });
