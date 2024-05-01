@@ -8,7 +8,11 @@
   },
   "keywords": [
     "todo",
-    "cli"
+    "cli",
+    "javascript",
+    "chalk",
+    "inquirer",
+    "tool"
   ],
   "author": "Tejas Anil Shrimali",
   "license": "ISC",
