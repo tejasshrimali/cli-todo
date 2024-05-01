@@ -14,7 +14,7 @@
     "inquirer",
     "tool"
   ],
-  "author": "Tejas Anil Shrimali",
+  "author": "TejaDon",
   "license": "ISC",
   "bin": {
     "todo": "bin/todo.mjs"
