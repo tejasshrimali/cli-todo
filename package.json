@@ -1,6 +1,6 @@
 {
   "name": "cli-todo-pkg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A command line todo app",
   "main": "todo.js",
   "scripts": {
