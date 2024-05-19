@@ -8,4 +8,4 @@ Install this package using ```npm i cli-todo-pkg```.
 
 
 ### Usage
-Use ```todo``` to start the app in command line interface.
+Use ```npx todo``` to start the app in command line interface.
